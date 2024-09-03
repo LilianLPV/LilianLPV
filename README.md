@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LE PIVER Lilian</h1>
 <h3 align="center">Student at Ynov Aix Campus</h3>
 
-- 🔭 I’m currently working on **A Website for my School**
+- 🔭 I’m currently working on **A Coding for my School**
 
 - 🌱 I’m currently learning **Frameworks, Java and a lots of others languages**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lilian.lepiver@ynov.com**
 
-- ⚡ Fun fact **i am a not really good support on OW2**
+- ⚡ Fun fact **i am good league of legends**
 
 <p align="left">
 </p>
