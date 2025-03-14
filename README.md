@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Coding for my School**
 
-- 🌱 I’m currently learning **Frameworks, Java and a lots of others languages**
+- 🌱 I’m currently learning **GoLang, HTML CSS and a lots of others languages**
 
 - 💬 Ask me about **help and i'll try to help you**
 
