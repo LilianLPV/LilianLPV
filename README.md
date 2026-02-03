@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **help and i'll try to help you**
 
-- 📫 How to reach me **lilian.lepiver@ynov.com**
-
-- ⚡ Fun fact **i am good league of legends**
+- 📫 How to reach me **lepiver.lilian@gmail.com**
 
 <p align="left">
 </p>
