@@ -1,43 +1,92 @@
-# Lilian Le Piver
+<div align="center">
 
-**Étudiant en Bachelor 3 Développement** · **Alternant Mentor** chez Ynov Campus Aix-en-Provence
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+moi+c'est+Lilian;%C3%89tudiant+Bachelor+3+Dev+%40+Ynov+Aix;Alternant+Mentor+chez+Ynov+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Gopher+en+devenir+%F0%9F%90%B9;Full-stack+Go+%2B+Web" alt="Typing SVG" />
 
-Je développe des applications web, du back-end en Go jusqu'à l'interface en HTML/CSS/JavaScript. En parallèle de mes études, j'accompagne les étudiants d'Ynov en tant que mentor : aide sur leurs projets, débogage, explication des notions et bonnes pratiques.
+<br/>
 
----
+[![Ynov](https://img.shields.io/badge/Ynov-Aix--en--Provence-23B5D3?style=for-the-badge)](https://www.ynov.com/campus/aix-en-provence)
+[![Bachelor](https://img.shields.io/badge/Bachelor_3-Développement-8A2BE2?style=for-the-badge)](#)
+[![Alternance](https://img.shields.io/badge/Alternant-Mentor_Ynov-2EA44F?style=for-the-badge)](#-à-propos-de-moi)
 
-### 🛠️ Stack
-
-| Domaine | Technologies |
-|---|---|
-| **Langages** | Go · JavaScript · HTML · CSS · SQL |
-| **Back-end** | Go (net/http) · API REST |
-| **Base de données** | SQLite · MySQL |
-| **Outils** | Git · GitHub · VS Code · Linux |
+</div>
 
 ---
 
-### 📂 Projets
+## 🧑‍💻 À propos de moi
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**Groupie-Trackers**](https://github.com/LilianLPV/Groupie-Trackers) | Application web qui récupère et affiche les données d'artistes via une API (concerts, dates, lieux) | Go · HTML · CSS |
-| [**Nom du projet**](https://github.com/LilianLPV/NOM-DU-REPO) | Une phrase sur ce que fait le projet | Techno · Techno |
-| [**Nom du projet**](https://github.com/LilianLPV/NOM-DU-REPO) | Une phrase sur ce que fait le projet | Techno · Techno |
+```go
+package main
+
+type Dev struct {
+    Nom        string
+    Ecole      string
+    Niveau     string
+    Alternance string
+    Mission    string
+    Langages   []string
+}
+
+func main() {
+    lilian := Dev{
+        Nom:        "Lilian Le Piver",
+        Ecole:      "Ynov Aix-en-Provence",
+        Niveau:     "Bachelor 3 Développement",
+        Alternance: "Mentor chez Ynov",
+        Mission:    "Accompagner les étudiants sur leurs projets de dev",
+        Langages:   []string{"Go", "JavaScript", "HTML", "CSS", "SQL"},
+    }
+    _ = lilian
+}
+```
 
 ---
 
-### 🎯 En ce moment
+## ⚡ Technos
 
-- 📚 Bachelor 3 Développement à Ynov Aix
-- 🧑‍🏫 **Alternant Mentor** à Ynov : j'accompagne les étudiants sur leurs projets de développement
-- 🌱 J'approfondis Go et le développement full-stack
-- 💬 Une question sur un projet ? N'hésite pas à me contacter
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=go,js,html,css,mysql,sqlite,git,github,vscode,linux&perline=10)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 📫 Contact
+## 🚀 Projets à la une
 
-[![Email](https://img.shields.io/badge/Email-lepiver.lilian%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:lepiver.lilian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lilian%20Le%20Piver-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-le-piver/)
+<div align="center">
+
+<a href="https://github.com/LilianLPV/Groupie-Trackers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilianLPV&repo=Groupie-Trackers&theme=tokyonight&hide_border=true" alt="Groupie-Trackers" />
+</a>
+<a href="https://github.com/LilianLPV/NOM-DU-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LilianLPV&repo=NOM-DU-REPO&theme=tokyonight&hide_border=true" alt="Projet 2" />
+</a>
+
+</div>
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LilianLPV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianLPV&layout=compact&theme=tokyonight&hide_border=true" alt="Top langages" />
+
+<img src="https://streak-stats.demolab.com?user=LilianLPV&theme=tokyonight&hide_border=true" alt="Streak" />
+
+</div>
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lepiver.lilian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-le-piver/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lilian-lepiver.fr/)
+
+<img src="https://komarev.com/ghpvc/?username=LilianLPV&color=00ADD8&style=flat-square&label=Visites+du+profil" alt="Profile views" />
+
+</div>
